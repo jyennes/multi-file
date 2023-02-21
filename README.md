@@ -1,2 +1,2 @@
 # multi-file
-Powershell script that selects multiple files then opens all of them.
+Powershell script that allows user to select multiple files then opens all of them.
